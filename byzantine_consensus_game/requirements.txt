@@ -1,5 +1,0 @@
-vllm>=0.6.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-outlines>=0.0.34  # Required for JSON structured output mode (optional - only if use_structured_output=True)
